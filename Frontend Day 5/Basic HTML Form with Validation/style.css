@@ -1,0 +1,30 @@
+body {
+    display: flax;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: grey;
+    font-size: 16px;
+}
+
+#form {
+    background-color: ghostwhite;
+    padding: 30px;
+    text-align: center;
+    border-radius: 15px;
+    width: 350px;
+}
+
+#submit {
+    background-color: rgb(44, 44, 214);
+    border-radius: 10px;
+    height: 20px;
+    width: 100PX;
+    border-style: none;
+    
+}
+
+
+
+
